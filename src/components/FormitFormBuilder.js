@@ -297,8 +297,8 @@ const FormitFormBuilder = () => {
                 <Sparkles size={24} />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Form Builder</h1>
-                <p className="text-sm text-gray-500">Drag & drop FormIt forms</p>
+                <h1 className="text-xl font-bold text-gray-900">MODX Formit Builder</h1>
+                <p className="text-sm text-gray-500">Click on fields below to add</p>
               </div>
             </div>
           </div>
